@@ -2,6 +2,20 @@
 
 Here is a simple portfolio of client features I made for Snap.
 
+## Generate Custom Pet
+
+Generate a custom pet image (and use it on the map) based on any pet image. Note this feature predates multimodal LLMs.
+
+| <img src="custom_pet/1_pet_page.png" width="180"> | <img src="custom_pet/2_choose_image.png" width="180"> | <img src="custom_pet/3_loading_page.png" width="180"> | <img src="custom_pet/4_choose_generated_image.png" width="180"> |
+| :---: | :---: | :---: | :---: |
+| Step 1 — Pet page | Step 2 — Choose image | Step 3 — Loading | Step 4 — Choose generated image |
+
+**Demo:**
+
+<img src="custom_pet/custom_pet.gif" width="250">
+
+[Download the original video](custom_pet/custom_pet.mp4)
+
 ## My AI Bio
 
 My AI is Snapchat's take on AI chatbot. The bio feature allows users to configure the chatbot's character.
