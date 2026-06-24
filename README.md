@@ -8,40 +8,16 @@ Snapchat+ subscribers can send 3 buddy passes/month to their friends.
 
 ### Sending a Buddy Pass
 
-<table>
-  <tr>
-    <td align="center"><img src="buddy_pass/buddy_pass_pic1.jpg" width="150" height="325"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_pic2.jpg" width="150" height="325"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_pic3.jpg" width="150" height="325"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_pic4.jpg" width="150" height="325"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_pic5.jpg" width="150" height="325"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Step 1 — Entry point in management page</em></td>
-    <td align="center"><em>Step 2 — Landing page</em></td>
-    <td align="center"><em>Step 3 — Select recipient</em></td>
-    <td align="center"><em>Step 4 — Confirm recipient</em></td>
-    <td align="center"><em>Step 5 — Success notification</em></td>
-  </tr>
-</table>
+| <img src="buddy_pass/buddy_pass_pic1.jpg" width="150"> | <img src="buddy_pass/buddy_pass_pic2.jpg" width="150"> | <img src="buddy_pass/buddy_pass_pic3.jpg" width="150"> | <img src="buddy_pass/buddy_pass_pic4.jpg" width="150"> | <img src="buddy_pass/buddy_pass_pic5.jpg" width="150"> |
+| :---: | :---: | :---: | :---: | :---: |
+| Step 1 — Entry point in management page | Step 2 — Landing page | Step 3 — Select recipient | Step 4 — Confirm recipient | Step 5 — Success notification |
 
 🎥 [Watch the send flow (video)](buddy_pass/buddy_pass_send.mp4)
 
 ### Receiving & Redeeming a Buddy Pass
 
-<table>
-  <tr>
-    <td align="center"><img src="buddy_pass/buddy_pass_receive_1.png" width="180" height="390"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_receive_2.png" width="180" height="390"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_receive3.png" width="180" height="390"></td>
-    <td align="center"><img src="buddy_pass/buddy_pass_receive4.png" width="180" height="390"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Step 1 — New Chat notification</em></td>
-    <td align="center"><em>Step 2 — Notification message</em></td>
-    <td align="center"><em>Step 3 — Redeem page</em></td>
-    <td align="center"><em>Step 4 — Welcome page</em></td>
-  </tr>
-</table>
+| <img src="buddy_pass/buddy_pass_receive_1.png" width="180"> | <img src="buddy_pass/buddy_pass_receive_2.png" width="180"> | <img src="buddy_pass/buddy_pass_receive3.png" width="180"> | <img src="buddy_pass/buddy_pass_receive4.png" width="180"> |
+| :---: | :---: | :---: | :---: |
+| Step 1 — New Chat notification | Step 2 — Notification message | Step 3 — Redeem page | Step 4 — Welcome page |
 
 🎥 [Watch the redeem flow (video)](buddy_pass/buddy_pass_redeem.mp4)
