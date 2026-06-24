@@ -12,7 +12,11 @@ Snapchat+ subscribers can send 3 buddy passes/month to their friends.
 | :---: | :---: | :---: | :---: | :---: |
 | Step 1 — Entry point in management page | Step 2 — Landing page | Step 3 — Select recipient | Step 4 — Confirm recipient | Step 5 — Success notification |
 
-🎥 [Watch the send flow (video)](buddy_pass/buddy_pass_send.mp4)
+**Send flow:**
+
+<img src="buddy_pass/buddy_pass_send.gif" width="250">
+
+[Download the original video](buddy_pass/buddy_pass_send.mp4)
 
 ### Receiving & Redeeming a Buddy Pass
 
@@ -20,4 +24,8 @@ Snapchat+ subscribers can send 3 buddy passes/month to their friends.
 | :---: | :---: | :---: | :---: |
 | Step 1 — New Chat notification | Step 2 — Notification message | Step 3 — Redeem page | Step 4 — Welcome page |
 
-🎥 [Watch the redeem flow (video)](buddy_pass/buddy_pass_redeem.mp4)
+**Redeem flow:**
+
+<img src="buddy_pass/buddy_pass_redeem.gif" width="250">
+
+[Download the original video](buddy_pass/buddy_pass_redeem.mp4)
