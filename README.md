@@ -57,3 +57,17 @@ Snapchat+ subscribers can send 3 buddy passes/month to their friends.
 <img src="buddy_pass/buddy_pass_redeem.gif" width="250">
 
 [Download the original video](buddy_pass/buddy_pass_redeem.mp4)
+
+## Bulk Streak Restore
+
+Streak restore is a paid service where users can pay to restore their lost conversation streak. The bulk restore feature allows users to restore all of their lost streaks at a discount.
+
+| <img src="bulk_restore/1_show_streaks.png" width="150"> | <img src="bulk_restore/2_bulk_option.png" width="150"> | <img src="bulk_restore/3_payment_page.png" width="150"> | <img src="bulk_restore/4_restoring.png" width="150"> | <img src="bulk_restore/5_restored_page.png" width="150"> |
+| :---: | :---: | :---: | :---: | :---: |
+| Step 1 — Show streaks | Step 2 — Bulk option | Step 3 — Payment page | Step 4 — Restoring | Step 5 — Restored |
+
+**Demo:**
+
+<img src="bulk_restore/bulk_restore.gif" width="250">
+
+[Download the original video](bulk_restore/Screen_Recording_20241101_163032_Bazelshroom.mp4)
